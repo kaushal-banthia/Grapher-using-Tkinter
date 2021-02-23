@@ -3,6 +3,7 @@
 Made a GUI that takes in a polynomial expression and its range of values and then displays the graph for that expression
 
 Before entering the values
+<br>
 <img src = "https://github.com/kaushal-banthia/Grapher-using-Tkinter/blob/main/Images/Initial.PNG">
 <br>
 After entering the values
